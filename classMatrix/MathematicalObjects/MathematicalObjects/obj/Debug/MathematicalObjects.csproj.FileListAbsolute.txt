@@ -1,0 +1,12 @@
+E:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.exe.config
+E:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.exe
+E:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.pdb
+E:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.csprojResolveAssemblyReference.cache
+E:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.exe
+E:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.pdb
+F:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.exe.config
+F:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.exe
+F:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.pdb
+F:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.exe
+F:\class Matrix\MathematicalObjects\MathematicalObjects\bin\Debug\MathematicalObjects.pdb
+F:\class Matrix\MathematicalObjects\MathematicalObjects\obj\Debug\MathematicalObjects.csprojResolveAssemblyReference.cache
